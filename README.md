@@ -29,6 +29,9 @@ My interest in the web started in 2012, when I received my first computer as a g
 ##### Sciamlab — Full-stack developer
 I mainly work with WordPress, building custom themes and plugins, and integrating WooCommerce when needed. I also build full applications in Laravel, from backend to frontend, and themes on PrestaShop.
 
+##### Freelance — In parallel
+On the side, I take on freelance projects. Web apps built with React and Supabase, browser games with Phaser 3, and websites with WordPress.
+
 ##### Studio Brillante — Front-end developer
 WordPress theme development with Bootstrap components, working in SCSS for clean and maintainable code.
 
@@ -59,6 +62,10 @@ This is where I built the foundations to become a good developer: I learned that
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-8B5CF6?style=flat-square&logo=phaser&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logoColor=white)
+
+##### Backend & databases
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ##### CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -135,6 +142,9 @@ Il mio interesse verso il web nasce nel 2012, quando ricevetti in regalo il mio 
 
 ##### Sciamlab — Sviluppatore full-stack
 Mi occupo principalmente di WordPress, sviluppando temi e plugin personalizzati, e integrando WooCommerce quando richiesto. Realizzo anche applicazioni complete in Laravel, dal backend al frontend, e temi su PrestaShop.
+
+##### Freelance — In parallelo
+Al di fuori del lavoro principale, porto avanti progetti freelance. Web app con React e Supabase, videogiochi per browser con Phaser 3, e siti con WordPress.
 
 ##### Studio Brillante — Front-end developer
 Sviluppo di temi WordPress con componenti Bootstrap, lavorando in SCSS per una scrittura pulita e mantenibile.
