@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://images.weserv.nl/?url=www.vincenzociaccia.it/wp-content/uploads/2024/10/vincenzociaccia.jpg&w=200&h=200&fit=cover&mask=circle" width="160" alt="Vincenzo Ciaccia" />
+
 # Hi, I'm Vincenzo.
 
 ### I design websites.
@@ -97,6 +99,16 @@ This is where I built the foundations to become a good developer: I learned that
 
 ---
 
+## Projects.
+
+A growing collection of websites, web apps, and experiments. The full archive lives on my site.
+
+→ [See all projects on vincenzociaccia.it](https://www.vincenzociaccia.it/en/projects/)
+
+<br>
+
+---
+
 <div align="center">
 
 ### Let's talk.
@@ -151,6 +163,14 @@ Sviluppo di temi WordPress con componenti Bootstrap, lavorando in SCSS per una s
 
 ##### NABA — Laurea triennale
 Qui ho costruito le fondamenta per diventare un buon sviluppatore: ho capito che un layout pulito e ben pensato rende lo sviluppo una passeggiata. Laurea triennale in Graphic Design & Art Direction.
+
+<br>
+
+### Progetti.
+
+Una collezione in continua crescita di siti, web app ed esperimenti. L'archivio completo è sul mio sito.
+
+→ [Vedi tutti i progetti su vincenzociaccia.it](https://www.vincenzociaccia.it/projects/)
 
 <br>
 
