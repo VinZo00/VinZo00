@@ -1,14 +1,16 @@
 <div align="center">
 
-# Ciao, sono Vincenzo.
+<img src="https://images.weserv.nl/?url=www.vincenzociaccia.it/wp-content/uploads/2024/10/vincenzociaccia.jpg&w=200&h=200&fit=cover&mask=circle" width="160" alt="Vincenzo Ciaccia" />
 
-### Disegno siti web.
+# Hi, I'm Vincenzo.
 
-Web Developer · Classe 2000 · Roma
+### I design websites.
 
-[**vincenzociaccia.it**](https://www.vincenzociaccia.it) · [Profilo](https://www.vincenzociaccia.it/profile/) · [Progetti](https://www.vincenzociaccia.it/projects/) · [Strumenti](https://www.vincenzociaccia.it/stacks/) · [Instagram](https://www.instagram.com/vincenzo__ciaccia) · [Email](mailto:vincenzo_ciaccia@hotmail.com)
+Web Developer · Born in 2000 · Rome
 
-<sub>🇮🇹 Italiano · <a href="#-read-in-english">🇬🇧 Read in English ↓</a></sub>
+[**vincenzociaccia.it**](https://www.vincenzociaccia.it/en/homepage/) · [Profile](https://www.vincenzociaccia.it/en/profile/) · [Projects](https://www.vincenzociaccia.it/en/projects/) · [Stack](https://www.vincenzociaccia.it/en/stacks/) · [Instagram](https://www.instagram.com/vincenzo__ciaccia) · [Email](mailto:vincenzo_ciaccia@hotmail.com)
+
+<sub>🇬🇧 English · <a href="#-leggi-in-italiano">🇮🇹 Leggi in italiano ↓</a></sub>
 
 </div>
 
@@ -16,37 +18,32 @@ Web Developer · Classe 2000 · Roma
 
 ---
 
-## Chi sono.
+## About me.
 
-Coltivo la mia passione per le interfacce e la cura meticolosa dei dettagli. Un dialogo continuo tra forma e funzionalità, tra arte e tecnologia.
-
-Sviluppatore presso **[Sciamlab](https://sciamlab.com)**.
+My interest in the web started in 2012, when I received my first computer as a gift. I used to spend hours on HABBO retro-servers, until one day I decided to build one of my own. That was my springboard into graphics and programming — and in a way it still is: I like taking things apart to understand how they work, then putting them back together better.
 
 <br>
 
 ---
 
-## La mia carriera.
+## My career.
 
-##### 2024 — oggi · Sciamlab
-Sviluppo full-stack. Temi e plugin WordPress su misura, e-commerce WooCommerce, applicazioni web con PHP, Laravel e Node.js. Integrazioni API RESTful, ottimizzazioni SEO, performance e usabilità.
+##### Sciamlab — Full-stack developer
+I mainly work with WordPress, building custom themes and plugins, and integrating WooCommerce when needed. I also build full applications in Laravel, from backend to frontend, and themes on PrestaShop.
 
-##### 2022 — 2024 · Studio Brillante
-Front-end developer. Branding e siti su misura, dall'idea al progetto finito.
+##### Studio Brillante — Front-end developer
+WordPress theme development with Bootstrap components, working in SCSS for clean and maintainable code.
 
-##### 2019 — 2022 · NABA
-Triennale in Arti Visive presso la Nuova Accademia di Belle Arti di Roma.
-
-##### 2015 — 2019 · Corporate Information Systems
-Diploma tecnico.
+##### NABA — Bachelor's degree
+This is where I built the foundations to become a good developer: I learned that a clean, well-thought-out layout makes the development a walk in the park. Bachelor's degree in Graphic Design & Art Direction.
 
 <br>
 
 ---
 
-## Stack & strumenti.
+## Stack & tools.
 
-##### Linguaggi
+##### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -55,7 +52,7 @@ Diploma tecnico.
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-##### Framework & librerie
+##### Frameworks & libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -68,6 +65,7 @@ Diploma tecnico.
 ##### CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
 
 ##### Build & DevOps
@@ -88,24 +86,7 @@ Diploma tecnico.
 ![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=flat-square&logo=maxon&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
-→ [Tutti gli strumenti](https://www.vincenzociaccia.it/stacks/)
-
-<br>
-
----
-
-## Progetti.
-
-##### [Una stella in cucina](https://www.vincenzociaccia.it/project/una-stella-in-cucina/)
-UX/UI · WordPress
-
-##### [Luca Grimaldi](https://www.vincenzociaccia.it/project/luca-grimaldi/)
-UX/UI · WordPress
-
-##### [MAT — Multidisciplinary Area Testaccio](https://www.vincenzociaccia.it/project/mat-multidisciplinary-area-testaccio/)
-Branding · Editoria · Motion
-
-→ [Tutti i progetti](https://www.vincenzociaccia.it/projects/)
+→ [See full stack](https://www.vincenzociaccia.it/en/stacks/)
 
 <br>
 
@@ -113,7 +94,7 @@ Branding · Editoria · Motion
 
 <div align="center">
 
-### Apriamo un dialogo.
+### Let's talk.
 
 [vincenzo_ciaccia@hotmail.com](mailto:vincenzo_ciaccia@hotmail.com)
 
@@ -125,69 +106,49 @@ Branding · Editoria · Motion
 
 <br>
 
-## 🇬🇧 Read in English
+## 🇮🇹 Leggi in italiano
 
 <details>
-<summary><b>Click to expand the English version ↓</b></summary>
+<summary><b>Clicca per espandere la versione italiana ↓</b></summary>
 
 <br>
 
 <div align="center">
 
-# Hi, I'm Vincenzo.
+# Ciao, sono Vincenzo.
 
-### I design websites.
+### Disegno siti web.
 
-Web Developer · Born in 2000 · Rome
+Web Developer · Classe 2000 · Roma
 
-[**vincenzociaccia.it**](https://www.vincenzociaccia.it/en/homepage/) · [Profile](https://www.vincenzociaccia.it/en/profile/) · [Projects](https://www.vincenzociaccia.it/en/projects/) · [Stack](https://www.vincenzociaccia.it/en/stacks/) · [Instagram](https://www.instagram.com/vincenzo__ciaccia) · [Email](mailto:vincenzo_ciaccia@hotmail.com)
+[**vincenzociaccia.it**](https://www.vincenzociaccia.it) · [Profilo](https://www.vincenzociaccia.it/profile/) · [Progetti](https://www.vincenzociaccia.it/projects/) · [Strumenti](https://www.vincenzociaccia.it/stacks/) · [Instagram](https://www.instagram.com/vincenzo__ciaccia) · [Email](mailto:vincenzo_ciaccia@hotmail.com)
 
 </div>
 
 <br>
 
-### About me.
+### Chi sono.
 
-I nurture my passion for interfaces and meticulous attention to detail. A continuous dialogue between form and function, between art and technology.
-
-Developer at **[Sciamlab](https://sciamlab.com)**.
+Il mio interesse verso il web nasce nel 2012, quando ricevetti in regalo il mio primo computer. Passavo ore sui retroserver di HABBO, finché non decisi di crearne uno tutto mio. Quello è stato il mio trampolino di lancio verso la grafica e la programmazione — e in un certo senso lo è ancora oggi: mi piace smontare le cose per capire come funzionano, poi rimontarle meglio.
 
 <br>
 
-### My work.
+### La mia carriera.
 
-##### 2024 — present · Sciamlab
-Full-stack development. Custom WordPress themes and plugins, WooCommerce e-commerce, web applications with PHP, Laravel and Node.js. RESTful API integrations, SEO, performance and usability.
+##### Sciamlab — Sviluppatore full-stack
+Mi occupo principalmente di WordPress, sviluppando temi e plugin personalizzati, e integrando WooCommerce quando richiesto. Realizzo anche applicazioni complete in Laravel, dal backend al frontend, e temi su PrestaShop.
 
-##### 2022 — 2024 · Studio Brillante
-Front-end developer. Branding and custom websites, from idea to finished project.
+##### Studio Brillante — Front-end developer
+Sviluppo di temi WordPress con componenti Bootstrap, lavorando in SCSS per una scrittura pulita e mantenibile.
 
-##### 2019 — 2022 · NABA
-Bachelor's degree in Visual Arts at Nuova Accademia di Belle Arti, Rome.
-
-##### 2015 — 2019 · Corporate Information Systems
-Technical diploma.
-
-<br>
-
-### Selected projects.
-
-##### [Una stella in cucina](https://www.vincenzociaccia.it/en/project/una-stella-in-cucina/)
-UX/UI · WordPress
-
-##### [Luca Grimaldi](https://www.vincenzociaccia.it/en/project/luca-grimaldi/)
-UX/UI · WordPress
-
-##### [MAT — Multidisciplinary Area Testaccio](https://www.vincenzociaccia.it/en/project/mat-multidisciplinary-area-testaccio/)
-Branding · Editorial · Motion
-
-→ [All projects](https://www.vincenzociaccia.it/en/projects/)
+##### NABA — Laurea triennale
+Qui ho costruito le fondamenta per diventare un buon sviluppatore: ho capito che un layout pulito e ben pensato rende lo sviluppo una passeggiata. Laurea triennale in Graphic Design & Art Direction.
 
 <br>
 
 <div align="center">
 
-### Let's talk.
+### Apriamo un dialogo.
 
 [vincenzo_ciaccia@hotmail.com](mailto:vincenzo_ciaccia@hotmail.com)
 
