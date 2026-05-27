@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://images.weserv.nl/?url=www.vincenzociaccia.it/wp-content/uploads/2024/10/vincenzociaccia.jpg&w=200&h=200&fit=cover&mask=circle" width="160" alt="Vincenzo Ciaccia" />
+
 # Ciao, sono Vincenzo.
 
 ### Disegno siti web.
@@ -7,6 +9,8 @@
 Web Developer · Classe 2000 · Roma
 
 [**vincenzociaccia.it**](https://www.vincenzociaccia.it) · [Profilo](https://www.vincenzociaccia.it/profile/) · [Progetti](https://www.vincenzociaccia.it/projects/) · [Strumenti](https://www.vincenzociaccia.it/stacks/) · [Instagram](https://www.instagram.com/vincenzo__ciaccia) · [Email](mailto:vincenzo_ciaccia@hotmail.com)
+
+<sub>🇮🇹 Italiano · <a href="#-read-in-english">🇬🇧 Read in English ↓</a></sub>
 
 </div>
 
@@ -116,3 +120,79 @@ Branding · Editoria · Motion
 [vincenzo_ciaccia@hotmail.com](mailto:vincenzo_ciaccia@hotmail.com)
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+## 🇬🇧 Read in English
+
+<details>
+<summary><b>Click to expand the English version ↓</b></summary>
+
+<br>
+
+<div align="center">
+
+# Hi, I'm Vincenzo.
+
+### I design websites.
+
+Web Developer · Born in 2000 · Rome
+
+[**vincenzociaccia.it**](https://www.vincenzociaccia.it/en/homepage/) · [Profile](https://www.vincenzociaccia.it/en/profile/) · [Projects](https://www.vincenzociaccia.it/en/projects/) · [Stack](https://www.vincenzociaccia.it/en/stacks/) · [Instagram](https://www.instagram.com/vincenzo__ciaccia) · [Email](mailto:vincenzo_ciaccia@hotmail.com)
+
+</div>
+
+<br>
+
+### About me.
+
+I nurture my passion for interfaces and meticulous attention to detail. A continuous dialogue between form and function, between art and technology.
+
+Developer at **[Sciamlab](https://sciamlab.com)**.
+
+<br>
+
+### My work.
+
+##### 2024 — present · Sciamlab
+Full-stack development. Custom WordPress themes and plugins, WooCommerce e-commerce, web applications with PHP, Laravel and Node.js. RESTful API integrations, SEO, performance and usability.
+
+##### 2022 — 2024 · Studio Brillante
+Front-end developer. Branding and custom websites, from idea to finished project.
+
+##### 2019 — 2022 · NABA
+Bachelor's degree in Visual Arts at Nuova Accademia di Belle Arti, Rome.
+
+##### 2015 — 2019 · Corporate Information Systems
+Technical diploma.
+
+<br>
+
+### Selected projects.
+
+##### [Una stella in cucina](https://www.vincenzociaccia.it/en/project/una-stella-in-cucina/)
+UX/UI · WordPress
+
+##### [Luca Grimaldi](https://www.vincenzociaccia.it/en/project/luca-grimaldi/)
+UX/UI · WordPress
+
+##### [MAT — Multidisciplinary Area Testaccio](https://www.vincenzociaccia.it/en/project/mat-multidisciplinary-area-testaccio/)
+Branding · Editorial · Motion
+
+→ [All projects](https://www.vincenzociaccia.it/en/projects/)
+
+<br>
+
+<div align="center">
+
+### Let's talk.
+
+[vincenzo_ciaccia@hotmail.com](mailto:vincenzo_ciaccia@hotmail.com)
+
+</div>
+
+</details>
