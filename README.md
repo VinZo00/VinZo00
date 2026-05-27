@@ -2,7 +2,7 @@
 
 # Hi, I'm Vincenzo.
 
-### I design websites.
+### I design and develop websites.
 
 Web Developer · Born in 2000 · Rome
 
@@ -136,7 +136,7 @@ A growing collection of websites, web apps, and experiments. The full archive li
 
 # Ciao, sono Vincenzo.
 
-### Disegno siti web.
+### Disegno e sviluppo siti web.
 
 Web Developer · Classe 2000 · Roma
 
