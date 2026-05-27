@@ -109,6 +109,10 @@ A growing collection of websites, web apps, and experiments. The full archive li
 
 <div align="center">
 
+<br>
+
+<img src="bongocat.gif" alt="Slap" width="100" />
+
 ### Let's talk.
 
 [vincenzo_ciaccia@hotmail.com](mailto:vincenzo_ciaccia@hotmail.com)
@@ -174,7 +178,11 @@ Una collezione in continua crescita di siti, web app ed esperimenti. L'archivio 
 
 <div align="center">
 
-### Apriamo un dialogo.
+<br>
+
+<img src="bongocat.gif" alt="Slap" width="100" />
+
+### Conosciamoci.
 
 [vincenzo_ciaccia@hotmail.com](mailto:vincenzo_ciaccia@hotmail.com)
 
