@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=www.vincenzociaccia.it/wp-content/uploads/2024/10/vincenzociaccia.jpg&w=200&h=200&fit=cover&mask=circle" width="160" alt="Vincenzo Ciaccia" />
-
 # Hi, I'm Vincenzo.
 
 ### I design websites.
